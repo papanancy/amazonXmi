@@ -8,7 +8,7 @@
 "HOMEURL" : "https://setyoadmapp.blogspot.com/2023/02/boca-life.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server oke",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
